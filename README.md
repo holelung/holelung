@@ -14,4 +14,4 @@ Welcome to my GitHub profile! I'm a passionate developer from Korea specializing
 - **Deployments**: AWS, Firebase
 
 ## 🔗 Connect with me
-- [LinkedIn](#)
+- mail: junho3004@naver.com
