@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Junho Jang!
 
-<!--
-**holelung/holelung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer from Korea specializing in AI, web development, and more.
 
-Here are some ideas to get you started:
+## 🚀 Key Projects
+- 🔥 **[FireDetect](https://github.com/holelung/FireDetect):** Real-time fire detection system using sensors.
+- 🌸 **[findFlowers](https://github.com/holelung/findFlowers):** Flower classification app using ResNet-50.
+- 🛒 **[TrandNavi_AI](https://github.com/holelung/TrandNavi_AI):** AI chatbot for an e-commerce platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages**: Python, JavaScript, C++
+- **Frameworks**: PyTorch, Flask, React, NodeJS
+- **Tools**: Streamlit, MySQL,
+- **Deployments**: AWS, Firebase
+
+## 🔗 Connect with me
+- [LinkedIn](#)
