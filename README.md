@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate developer from Korea specializing
 - 🛒 **[TrandNavi_AI](https://github.com/holelung/TrandNavi_AI):** AI chatbot for an e-commerce platform.
 
 ## 🛠️ Skills
-- **Languages**: Python, JavaScript, C++
-- **Frameworks**: PyTorch, Flask, React, NodeJS
+- **Languages**: Python, JavaScript, C++, Java
+- **Frameworks**: PyTorch, Flask, React, NodeJS, SpringBoot
 - **Tools**: Streamlit, MySQL,
 - **Deployments**: AWS, Firebase
 
