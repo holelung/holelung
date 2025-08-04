@@ -59,7 +59,7 @@
 
 | 프로젝트명 | 주요 기능 | 담당 역할 | 기술 스택 | GitHub | 배포링크 |
 |------------|-----------|------------|------------|-------------|------|
-| **Saintra**<br/>사내 인트라넷 | - 여행지 검색 및 Google Maps 시각화<br/>- 단계별 여행 계획 작성 및 저장<br/>- 리뷰 및 이미지 업로드 (S3)<br/>- 실시간 채팅 (WebSocket + STOMP)<br/>- GitHub Actions 기반 자동 배포 | - JWT 로그인 인증 구현<br>- 리뷰 신고 기능<br>- 즐겨찾기 기능<br>- Docker & AWS CI/CD 배포 자동화 | Java 21, Spring Boot, MyBatis, Oracle DB<br/>React 19, Tailwind CSS, WebSocket, STOMP<br/>AWS EC2/S3, GitHub Actions | - [백엔드](https://github.com/holelung/KH_final_BE)<br/> - [프론트엔드](https://github.com/holelung/KH_final_FE) | [🔗 바로가기](https://holelung.shop/) |
+| **Saintra**<br/>사내 인트라넷 | - 데이터 베이스 민감 정보 암호화(DMBS CRYPTO)<br/> - 부서별 게시판<br/> - 실시간 채팅 및 로그인 상태 확인 (STOMP)<br/> - 사용자 활동 추적(AOP) | - JWT 로그인 인증 구현<br> - 로그인 상태 표시 구현<br> - 사용자 활동 추적 기능<br> - Docker & AWS CI/CD 배포 자동화 | Java 21, Spring Boot, MyBatis, Oracle DB<br/>React 19, Tailwind CSS, WebSocket, STOMP<br/>AWS EC2/S3, GitHub Actions | - [백엔드](https://github.com/holelung/KH_final_BE)<br/> - [프론트엔드](https://github.com/holelung/KH_final_FE) | [🔗 바로가기](https://holelung.shop/) |
 | **EcoInsight**<br/>탄소중립 포인트 시각화 커뮤니티  | - 마이페이지 기능<br/>- JWT 기반 인증 및 소셜 로그인<br/>- 게시판 기능<br/>- 관리자 기능 | - 관리자 기능구현<br/> - 게시판 에디터 구현 | Java 21, Spring Boot, MyBatis, Oracle DB<br/>React 19, Tailwind CSS<br/>| - [백엔드](https://github.com/holelung/EcoInsight-BE)<br/> - [프론트엔드](https://github.com/holelung/EcoInsight-FE) | [🔗 바로가기](https://webjang.store/)  |
 
 ---
