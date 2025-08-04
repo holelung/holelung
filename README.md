@@ -13,10 +13,10 @@
 
 <div align="center">
   <a href="mailto:holelung@gmail.com">
-    <img src="https://img.shields.io/badge/Email-holelung@gmail.com-blue?style=flat-square&logo=naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-holelung@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="mailto:junho3004@naver.com">
-    <img src="https://img.shields.io/badge/Email-junho3004@naver.com-green?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-junho3004@naver.com-green?style=flat-square&logo=naver&logoColor=white"/>
   </a>
 </div>
 
