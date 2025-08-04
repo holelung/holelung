@@ -1,17 +1,82 @@
-# 👋 Hello, I'm Junho Jang!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Backend%20Developer&fontSize=80&fontAlignY=35&desc=Junho%20Jang's%20Portfolio&descAlignY=55&descSize=20&color=0:BBFDE3,50:57E0F4,100:A38BFE&textColor=2D3748&descColor=4A5568" />
+</div>
 
-Welcome to my GitHub profile! I'm a passionate developer from Korea specializing in AI, web development, and more.
+<h1 align="center">안녕하세요, 백엔드 개발자 장준호 입니다.</h1>
 
-## 🚀 Key Projects
-- 🔥 **[FireDetect](https://github.com/holelung/FireDetect):** Real-time fire detection system using sensors.
-- 🌸 **[findFlowers](https://github.com/holelung/findFlowers):** Flower classification app using ResNet-50.
-- 🛒 **[TrandNavi_AI](https://github.com/holelung/TrandNavi_AI):** AI chatbot for an e-commerce platform.
+<p align="center">
+  <strong>항상 발전하려고 노력하며, 새로운 것을 탐구하는 신입 개발자입니다.</strong><br/>
+  <em>빠른 슥듭능력이 강점입니다.</em>
+</p>
 
-## 🛠️ Skills
-- **Languages**: Python, JavaScript, C++, Java
-- **Frameworks**: PyTorch, Flask, React, NodeJS, SpringBoot
-- **Tools**: Streamlit, MySQL,
-- **Deployments**: AWS, Firebase
+<div align="center">
+  <a href="mailto:holelung@gmail.com">
+    <img src="https://img.shields.io/badge/Email-holelung@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:junho3004@naver.com">
+    <img src="https://img.shields.io/badge/Email-junho3004@naver.com-green?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
-## 🔗 Connect with me
-- mail: junho3004@naver.com
+---
+
+## 🔧 Tech Stack
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Framework & Library
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+---
+
+## 📁 주요 프로젝트 (Projects)
+
+| 프로젝트명 | 주요 기능 | 담당 역할 | 기술 스택 | GitHub | 배포링크 |
+|------------|-----------|------------|------------|-------------|------|
+| **Saintra**<br/>사내 인트라넷 | - 여행지 검색 및 Google Maps 시각화<br/>- 단계별 여행 계획 작성 및 저장<br/>- 리뷰 및 이미지 업로드 (S3)<br/>- 실시간 채팅 (WebSocket + STOMP)<br/>- GitHub Actions 기반 자동 배포 | - JWT 로그인 인증 구현<br>- 리뷰 신고 기능<br>- 즐겨찾기 기능<br>- Docker & AWS CI/CD 배포 자동화 | Java 21, Spring Boot, MyBatis, Oracle DB<br/>React 19, Tailwind CSS, WebSocket, STOMP<br/>AWS EC2/S3, GitHub Actions | - [백엔드](https://github.com/holelung/KH_final_BE)<br/> - [프론트엔드](https://github.com/holelung/KH_final_FE) | [🔗 바로가기](https://holelung.shop/) |
+| **EcoInsight**<br/>탄소중립 포인트 시각화 커뮤니티  | - 마이페이지 기능<br/>- JWT 기반 인증 및 소셜 로그인<br/>- 게시판 기능<br/>- 관리자 기능 | - 관리자 기능구현<br/> - 게시판 에디터 구현 | Java 21, Spring Boot, MyBatis, Oracle DB<br/>React 19, Tailwind CSS<br/>| - [백엔드](https://github.com/holelung/EcoInsight-BE)<br/> - [프론트엔드](https://github.com/holelung/EcoInsight-FE) | [🔗 바로가기](https://webjang.store/)  |
+
+---
+
+## 🏫 Education
+명지전문대학(2020.03 ~ 2025.02)
+KH 정보교육원 (2024.12 ~ 2025.07)
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=holelung&show_icons=true&theme=tokyonight" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holelung&layout=compact&theme=tokyonight" height="200"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BBFDE3,50:57E0F4,100:A38BFE&height=120&section=footer"/>
+</div>
