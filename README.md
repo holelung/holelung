@@ -73,7 +73,7 @@ KH 정보교육원 (2024.12 ~ 2025.07)
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=holelung&show_icons=true&theme=tokyonight" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holelung&layout=compact&theme=tokyonight" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holelung&layout=compact&theme=tokyonight" height="300"/>
 
 </div>
 
