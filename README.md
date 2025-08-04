@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Backend%20Developer&fontSize=80&fontAlignY=35&desc=Junho%20Jang's%20Portfolio&descAlignY=55&descSize=20&color=0:BBFDE3,50:57E0F4,100:A38BFE&textColor=2D3748&descColor=4A5568](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Backend%20Developer&fontSize=80&fontAlignY=35&desc=Junho%20Jang)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Backend%20Developer&fontSize=80&fontAlignY=35&desc=Junho%20Jang's%20Portfolio&descAlignY=55&descSize=20&color=0:BBFDE3,50:57E0F4,100:A38BFE&textColor=2D3748&descColor=4A5568" />
 </div>
 
 <h1 align="center">안녕하세요, 백엔드 개발자 장준호 입니다.</h1>
